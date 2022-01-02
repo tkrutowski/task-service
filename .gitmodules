@@ -1,0 +1,10 @@
+[submodule "gasconnection-service"]
+	path = gasconnection-service
+	url = https://github.com/tkrutowski/GasConnectionService.git
+[submodule "address-service"]
+	path = address-service
+	url = https://github.com/tkrutowski/AddressService.git
+[submodule "scopework-service"]
+	path = scopework-service
+	url = https://github.com/tkrutowski/scope-gasconnection-service.git
+
